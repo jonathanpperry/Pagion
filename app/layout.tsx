@@ -1,6 +1,5 @@
 import { Toaster } from "sonner";
 import type { Metadata } from "next";
-// import { Geist, Geist_Mono } from "next/font/google";
 import { Inter } from "next/font/google"; // Inter is free and built-in
 
 import { ThemeProvider } from "@/components/providers/theme-provider";
