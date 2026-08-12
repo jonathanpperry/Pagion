@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Jotion",
+  title: "Pagion",
   description: "The connected workspace where better, faster work happens",
   icons: {
     icon: [
